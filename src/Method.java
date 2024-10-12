@@ -8,6 +8,7 @@ public class Method {
         return 12;
     }
 
+
     int calculateFloodRisk(){
         return 24;
     }
